@@ -9,4 +9,4 @@ addTodoList("Khannedy");
 addTodoList("Programmer");
 addTodoList("Zaman");
 addTodoList("Now");
-viewTodoList();
+viewShowTodoList();
